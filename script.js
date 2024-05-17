@@ -1,4 +1,4 @@
-// optional
-$('#blogCarousel').carousel({
-    interval: 100000
-});
+// // optional
+// $('#blogCarousel').carousel({
+//     interval: 100000
+// });
